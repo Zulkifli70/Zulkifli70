@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley for now</p>
+<p align="left">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer or Software Engineer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley for now</p>
 
 ###
 
@@ -63,6 +63,7 @@
 
 <h4 align="center">Recent music I listen</h4>
 
+<<<<<<< HEAD
 <div align="center">
   
   
@@ -70,6 +71,17 @@
   
   ###
 </div>
+=======
+###
+<div align="center">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21u4hqgss4sz6zl4am4zsxzsa&unique={true|1|on|yes})
+</div>
+###
+
+<h4 align="left">Play game with me</h4>
+
+###
+>>>>>>> b2207d65bcfed87320ab4cedca30048ed0fd8b80
 
 <img src="https://raw.githubusercontent.com/Zulkifli70/Zulkifli70/output/snake.svg" alt="Snake animation" />
 

@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left" background-color="white">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -57,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -66,9 +68,9 @@
 <div align="center">
   
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21u4hqgss4sz6zl4am4zsxzsa&unique={true|1|on|yes})
+  ![recent spotify](https://spotify-recently-played-readme.vercel.app/api?user=21u4hqgss4sz6zl4am4zsxzsa&unique={true|1|on|yes})
   
-  ###
+  
 </div>
 
 <img src="https://raw.githubusercontent.com/Zulkifli70/Zulkifli70/output/snake.svg" alt="Snake animation" />

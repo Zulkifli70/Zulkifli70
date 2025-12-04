@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBubnJyNW9oMjBuM2c3YWlla2hpNDhnN2JlZnA1ZG92OWlzbzN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HaOyeb1aQLlGU/giphy.gif"  />
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBubnJyNW9oMjBuM2c3YWlla2hpNDhnN2JlZnA1ZG92OWlzbzN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HaOyeb1aQLlGU/giphy.gif"  />
 </div>
 
 ###
@@ -19,15 +19,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer or Software Engineer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley for now <br> -🏅 I like to play badminton and football </p>
+<p align="center">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer or Software Engineer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley for now <br> -🏅 I like to play badminton and football </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🔨 Language and tools</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h4 align="center">Recent music I listen</h4>
+<h4 align="center">🎵 Recent music I listen</h4>
 
 <div align="center">
   

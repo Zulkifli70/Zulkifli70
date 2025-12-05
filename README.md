@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer or Software Engineer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley for now <br> -🏅 I like to play badminton and football </p>
+<p align="center">I'm Zul from Indonesia<br><br>- 🔭 I’m working as (soon to be) Frontend or Fullstack Developer or Software Engineer<br>- 📚 I'm currently learning Next.js, vue.js, node, and database<br>- ⚡ In my free time I play game like Dota 2, Stardew Valley and Football manager for now <br> -🏅 I like to play badminton and football </p>
 
 ###
 

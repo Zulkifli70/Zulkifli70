@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBubnJyNW9oMjBuM2c3YWlla2hpNDhnN2JlZnA1ZG92OWlzbzN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HaOyeb1aQLlGU/giphy.gif"  />
+  <img height="300" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBubnJyNW9oMjBuM2c3YWlla2hpNDhnN2JlZnA1ZG92OWlzbzN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HaOyeb1aQLlGU/giphy.gif"  />
 </div>
 
 ###
@@ -63,15 +63,15 @@
 
 ###
 
-<h4 align="center">🎵 Recent music I listen</h4>
+<!-- <h4 align="center">🎵 Recent music I listen</h4>
 
 <div align="center">
-  
-  
+
+
   ![recent spotify](https://spotify-recently-played-readme.vercel.app/api?user=21u4hqgss4sz6zl4am4zsxzsa&unique={true|1|on|yes})
-  
-  
-</div>
+
+
+</div> -->
 
 <img src="https://raw.githubusercontent.com/Zulkifli70/Zulkifli70/output/snake.svg" alt="Snake animation" />
 

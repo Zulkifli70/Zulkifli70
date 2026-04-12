@@ -46,8 +46,7 @@
   Building stronger fundamentals in modern web development, creating practical personal projects, and sharpening problem-solving skills through consistent hands-on work.
 </p>
 
-<h3 align="center">Language and Tools</h3>
-
+<h3 align="center">Tech Stack</h3
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />

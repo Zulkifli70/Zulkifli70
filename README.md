@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi, I'm Zulkifli</h1>
+<h1 align="center">Hi, I'm Zulkifli Firdausi</h1>
 
 <p align="center">
   Aspiring Frontend and Fullstack Developer with a strong interest in building modern, useful, and user-friendly web experiences.

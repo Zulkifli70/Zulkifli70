@@ -1,12 +1,3 @@
-<p align="center">
-  <img
-    height="300"
-    width="400"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBubnJyNW9oMjBuM2c3YWlla2hpNDhnN2JlZnA1ZG92OWlzbzN5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HaOyeb1aQLlGU/giphy.gif"
-    alt="Animated coding GIF"
-  />
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zulkifli-firdausi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -29,9 +20,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I'm Zul from Indonesia.
-  <br><br>
-  Currently growing toward a career as a Frontend Developer, Fullstack Developer, or Software Engineer.
+  I Currently growing toward a career as a Frontend Developer, Fullstack Developer, or Software Engineer.
   <br>
   I am learning and exploring Next.js, Vue.js, Node.js, and databases.
   <br>

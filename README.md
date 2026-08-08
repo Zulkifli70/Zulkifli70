@@ -20,8 +20,8 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I Currently growing toward a career as a Frontend Developer, Fullstack Developer, or Software Engineer.
-  <br>
+  I Currently growing toward a career as a Frontend Developer.
+  
   I am learning and exploring Next.js, Vue.js, Node.js, and databases.
   <br>
   Outside of coding, I enjoy playing games like Dota 2, Stardew Valley, and Football Manager.
